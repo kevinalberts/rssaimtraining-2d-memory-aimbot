@@ -3,3 +3,7 @@
 It's a memory aimbot, not a color aimbot. It will use the memory for where to aim.
 
 Speed 1 - 10
+
+RSS Aim Training:
+https://www.autoitscript.com/forum/files/file/403-rss-aim-training/
+https://github.com/Tf2Prophete/RSSAimTraining
