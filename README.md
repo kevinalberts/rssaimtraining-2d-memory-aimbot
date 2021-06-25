@@ -5,6 +5,7 @@ It's a memory aimbot, not a color aimbot. It will use the memory for where to ai
 Speed 1 - 10
 
 Speed: 1
+
 Aim Key: C
 
 RSS Aim Training:
