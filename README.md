@@ -11,3 +11,5 @@ Aim Key: C
 RSS Aim Training:
 https://www.autoitscript.com/forum/files/file/403-rss-aim-training/
 https://github.com/Tf2Prophete/RSSAimTraining
+
+https://youtube.com/embed/rnDAs0gB794
